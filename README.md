@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-<!--
+<h1 align="center">Hi 👋, I'm Anish Chhetry</h1>
+<h3 align="center">I study at upes</h3>
+ 
+- 🔭 I’m in my 1st year in btech cs course in UPES, Dehradun.
+- 🌱 I’m presently learning c programming
+- 💬My hobbies are playing basketball and trekking
+ 
+- ⚡ Fun fact about me : nothing
 **Anishchhetry2004/Anishchhetry2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
